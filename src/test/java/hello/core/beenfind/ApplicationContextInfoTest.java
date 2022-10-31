@@ -1,4 +1,4 @@
-package hello.core.beenFind;
+package hello.core.beenfind;
 
 import hello.core.AppConfig;
 import org.junit.jupiter.api.DisplayName;

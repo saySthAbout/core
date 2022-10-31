@@ -1,4 +1,4 @@
-package hello.core.beenFind;
+package hello.core.beenfind;
 
 import hello.core.discount.DiscountPolicy;
 import hello.core.discount.FixDiscountPolicy;
