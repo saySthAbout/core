@@ -76,4 +76,4 @@ public class SingletonWithPrototypeTest1 {
             System.out.println("PrototypeBean.destroy");
         }
     }
-} 
+}
